@@ -10,7 +10,7 @@ const INMUTABLE_CACHE = 'inmutable-v2';
 const APP_SHELL = [
 
     // En produccion tengo que comentar esta linea por que me genera problemas
-    '/',
+    // '/',
     'index.html',
     'js/app.js',
     'js/sw-utils.js',
