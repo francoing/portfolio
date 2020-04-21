@@ -28,6 +28,7 @@ const APP_SHELL = [
 const APP_SHELL_INMUTABLE = [
 
 
+    'js/bootstrap.min.js',
     'js/jquery.js',
 
 ];
